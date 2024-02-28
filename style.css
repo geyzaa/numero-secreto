@@ -4,6 +4,7 @@
     --font-family:"Montserrat", sans-serif;
     --bg-color:#392467;
     --primary-color:#FFD1E3; 
+    --detail-color: #756AB6;
 }
 
 body {
@@ -42,4 +43,14 @@ h3 {
     font-size: 4em;
     padding: 10px;
     margin: 20px;
+}
+
+.btn-jogar {
+    padding: 8px 15px;
+    border:3px solid var(--detail-color);
+    background-color: var(--primary-color);
+    border-radius: 25px;
+    margin-top: 20px;
+    font-size: 2em;
+    color: var(--bg-color);
 }
