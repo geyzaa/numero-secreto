@@ -15,3 +15,4 @@ O jogo retornará uma sugestão indicando se o número secreto é maior ou menor
 Para finalizar o jogo e recomeçar sem que alguém tenha vencido, basta falar "Game Over" e clicar em jogar novamente.
 ![image](https://github.com/geyzaa/numero-secreto/assets/97538755/ace9a9e6-0a95-4274-a3b4-513a2f4bdf35)
 
+Obs: o link disponível pela vercel não tem o código atualizado para executar a página "Game Over".
